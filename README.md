@@ -27,7 +27,7 @@ Dinosaurs are a diverse group of reptiles of the clade Dinosauria. They first ap
 4. Learn about their history, people's fascination with them, and more.
 
 ## Live Demo
-[View the live project here]()
+[View the live project here](https://dinosaurs-pi.vercel.app/)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
